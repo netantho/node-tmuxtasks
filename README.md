@@ -3,6 +3,8 @@ node-tmuxtasks
 
 Node module to execute commands in tmux sessions
 
+[![NPM](https://nodei.co/npm/node-tmuxtasks.png)](https://nodei.co/npm/node-tmuxtasks/)
+
 Installation
 ------------
 
