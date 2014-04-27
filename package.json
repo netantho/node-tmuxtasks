@@ -1,0 +1,14 @@
+{
+  "name": "node-tmuxtasks",
+  "version": "0.0.1",
+  "author": "Anthony Verez <netantho@gmail.com>",
+  "description": "Node module to execute commands in tmux sessions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netantho/node-tmuxtasks.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
