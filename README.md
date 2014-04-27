@@ -3,12 +3,19 @@ node-tmuxtasks
 
 Node module to execute commands in tmux sessions
 
+Installation
+------------
+
+```
+npm install node-tmuxtasks
+```
+
 Usage
 -----
 
 ```javascript
 // Configure a "my_tmux_session" tmux session
-var tmux = require("../lib/tmux")("my_tmux_session");
+var tmux = require("node-tmuxtasks")("my_tmux_session");
 
 // Creates the my_tmux_session session
 self.create_session(function() {
